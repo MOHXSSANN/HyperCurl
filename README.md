@@ -25,8 +25,3 @@ Welcome to HyperCurl - a sophisticated curling game that leverages real physics 
 - Ensure you have a modern web browser with JavaScript enabled.
 - Clone this repository to your local machine.
 
-### Installation
-
-```bash
-git clone https://github.com/your-username/hypercurl.git
-cd hypercurl
